@@ -1,1 +1,1 @@
-jrj
+https://raw.githubusercontent.com/maunadonis/maxteamTunnelcore/9ec97a1fb1fc07e563834fda78d834a09a181ff6/latestupdate.json
